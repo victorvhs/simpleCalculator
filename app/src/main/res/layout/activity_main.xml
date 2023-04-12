@@ -11,11 +11,10 @@
         android:id="@+id/txtInput"
         android:layout_width="match_parent"
         android:layout_height="250dp"
-        android:background="#c3c3c3"
+        android:background="#EFEFEF"
         android:text="1234567890"
         android:ems="10"
         android:gravity="end|center_vertical|bottom"
-        android:maxLength="12"
         android:textSize="40sp"
         android:padding="10dp"
 
